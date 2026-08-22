@@ -1,0 +1,6 @@
+{
+  "name": "Swarm Defense 2026",
+  "description": "An interactive AI-driven cybersecurity range where operators take part in Red Team attacks and Blue Team zero-downtime hot-patching across real-world microservice scenarios with step-by-step MITRE/OWASP debriefs and live graphical analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
